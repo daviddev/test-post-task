@@ -1,0 +1,7 @@
+.has-error{
+    color: red;
+}
+a.white-no-decoration{
+    text-decoration: none;
+    color: white;
+}
